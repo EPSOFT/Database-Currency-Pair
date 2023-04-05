@@ -1,8 +1,11 @@
 # Database-Currency-Pair
-Forex Data - Currency Pair : AUDUSD / EURUSD / GBPUSD / NZDUSD / USDCAD / USDCHF / USDJPY /
-and mental : XAGUSD / XAUUSD
+Forex Data - Currency Pair : AUDUSD / EURUSD / GBPUSD / NZDUSD / USDCAD / USDCHF / USDJPY 
+
+and metals : XAGUSD / XAUUSD
 
 timefram : 1m - 5m / 1H /1D / 1W/ 1M
+
+Date : 2007-01-01 / 2023-03-30
 
 time zones : Eastern Daylight Time (-4)/  EDT (UTC) -4:00 (-5:00)
 
