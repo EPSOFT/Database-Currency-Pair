@@ -1,10 +1,10 @@
 # Database-Currency-Pair
-Database Currency Pair : AUDUSD / EURUSD / GBPUSD / NZDUSD / USDCAD / USDCHF / USDJPY /
+Forex Data - Currency Pair : AUDUSD / EURUSD / GBPUSD / NZDUSD / USDCAD / USDCHF / USDJPY /
 and mental : XAGUSD / XAUUSD
 
 timefram : 1m - 5m / 1H /1D / 1W/ 1M
 
-time and date : EDT (UTC) -4:00 (-5:00)
+time zones : Eastern Daylight Time (-4)/  EDT (UTC) -4:00 (-5:00)
 
 <h1 align="center">Ahoy 👋, I'm Ehsan Paydar </h1>
 <h3 align="center">A passionate engineering master's student artificial intelligence originally from Iran </h3>
