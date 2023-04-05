@@ -9,6 +9,8 @@ Date : 2007-01-01 / 2023-03-30
 
 time zones : Eastern Daylight Time (-4)/  EDT (UTC) -4:00 (-5:00)
 
+Format Data : CSV
+
 <h1 align="center">Ahoy 👋, I'm Ehsan Paydar </h1>
 <h3 align="center">A passionate engineering master's student artificial intelligence originally from Iran </h3>
 
